@@ -170,6 +170,7 @@ public class EventsHandler : CustomEventsHandler
         _currentRoundToy.Scale = scale;
         _currentRoundToy.InteractionDuration = 5f;
         _currentRoundToy.Shape = InvisibleInteractableToy.ColliderShape.Box;
+        //debug things for _currentRoundToy
         //DrawableLines.IsDebugModeEnabled = true;
         //DrawableLines.GenerateBounds(new Bounds(currentRoundToy.Transform.position,currentRoundToy.Scale), 3f ,new Color(0.8f, 0, 0));
     }
@@ -188,7 +189,7 @@ public class EventsHandler : CustomEventsHandler
                 speaker.transform.localPosition = new Vector3(0,1.2f,0);
             });
             _currentRoundAudioPlayer.DestroyWhenAllClipsPlayed = false;
-            if(sound == "end")
+            if(sound == "End")
                 _currentRoundAudioPlayer.RemoveAllClips();
             _currentRoundAudioPlayer.AddClip(sound);
         }

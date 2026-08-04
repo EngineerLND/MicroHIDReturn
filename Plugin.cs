@@ -1,7 +1,6 @@
 ﻿using LabApi.Events.CustomHandlers;
 using LabApi.Features;
 using LabApi.Features.Console;
-using LabApi.Loader.Features.Paths;
 using LabApi.Loader.Features.Plugins;
 using System.Reflection;
 
@@ -14,7 +13,7 @@ public class Plugin : Plugin<Config>
     public override string Name => "MicroHIDReturn";
     public override string Description { get; } = "Plugin that allows returning Micro HID to its pedestal and even charge it";
     public override string Author { get; } = "Engi LND";
-    public override Version Version { get; } = new(1, 2, 0);
+    public override Version Version { get; } = new(1, 3, 0);
     public override Version RequiredApiVersion { get; } = new(LabApiProperties.CompiledVersion);
 
     
