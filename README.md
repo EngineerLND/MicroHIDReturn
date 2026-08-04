@@ -8,7 +8,7 @@
 
 - 🔄 **Return Micro HID to Pedestal** - Place the Micro HID back on its pedestal with your interaction button.
 - ⚡ **Charging Mechanics** - Recharge your Micro HID at the pedestal with fully configurable charge speed (Optional. Can be turned off in config.).
-- 🔊 **Atmospheric Sounds** - Immersive audio feedback during the charging process (optional).
+- 🔊 **Atmospheric Sounds** - Sounds during the charging process (optional).
 - 🧩 **Custom Micro HID Compatible** - Works seamlessly with plugins that add custom Micro HID variants (doesn't create new items, uses the one from your hand)
 - ⚙️ **Fully Configurable** - Toggle features on/off and adjust values to your liking
 
