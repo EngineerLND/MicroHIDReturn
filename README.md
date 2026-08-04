@@ -31,6 +31,7 @@
    ```
    %APPDATA%\SCP Secret Laboratory\LabAPI\configs\(your_port)\MicroHIDReturn
    ```
+**WARNING! [AudioPlayerApi](https://plugins.scpslgame.com/plugin/Killers0992/AudioPlayerApi) Required!**
 
 ---
 
