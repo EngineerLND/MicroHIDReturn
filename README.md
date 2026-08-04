@@ -59,4 +59,4 @@
 
 ## 🤝 Compatibility
 
-Fully compatible with **all custom Micro HID plugins** — no conflicts, no duplicates. The plugin simply returns the item from your hand to the pedestal without creating new instances.
+Fully compatible with **all custom Micro HID plugins** - no conflicts, no duplicates. The plugin simply returns the item from your hand to the pedestal without creating new instances.
