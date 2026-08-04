@@ -1,7 +1,8 @@
 # MicroHIDReturn (LabAPI)
 
-**MicroHIDReturn** is a simple plugin for SCP: SL built on **LabAPI**. It allows to return the Micro HID to its pedestal - a feature that's missing in vanilla gameplay - while adding a realistic charging mechanic with atmospheric sound effects.
+### MicroHIDReturn is a simple plugin for SCP: SL built on **LabAPI**. It allows to return the Micro HID to its pedestal - a feature that's missing in vanilla gameplay - while adding a realistic charging mechanic with atmospheric sound effects.
 ---
+**WARNING! [AudioPlayerApi](https://plugins.scpslgame.com/plugin/Killers0992/AudioPlayerApi) Required!**
 
 ## Features
 
