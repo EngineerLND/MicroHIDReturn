@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - 🔄 **Return Micro HID to Pedestal** - Place the Micro HID back on its pedestal with your interaction button.
 - ⚡ **Charging Mechanics** - Recharge your Micro HID at the pedestal with fully configurable charge speed (Optional. Can be turned off in config.).
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Download** the `.dll` file from the [Releases](https://github.com/EngineerLND/MicroHIDReturn/releases) page.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 | Setting | Description | Default |
 |---------|-------------|---------|
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 1. Hold the Micro HID in your hand
 2. Look at the pedestal
@@ -57,6 +57,6 @@
 
 ---
 
-## 🤝 Compatibility
+## Compatibility
 
 Fully compatible with **all custom Micro HID plugins** - no conflicts, no duplicates. The plugin simply returns the item from your hand to the pedestal without creating new instances.
